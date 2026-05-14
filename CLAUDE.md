@@ -18,6 +18,7 @@ public/           → file statici
 - Nessuna spiegazione del codice salvo richiesta esplicita
 - Styling con Tailwind; CSS custom solo se strettamente necessario
 - Un file per componente
+- Non eseguire commit né push: li gestisce l'utente manualmente
 
 ## Branch
 - `main` → produzione
